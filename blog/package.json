@@ -1,0 +1,33 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranloi1402/nodejs_bolg.git"
+  },
+  "keywords": [
+    "loi",
+    "blog",
+    "loi",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "tran loi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranloi1402/nodejs_bolg/issues"
+  },
+  "homepage": "https://github.com/tranloi1402/nodejs_bolg#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
